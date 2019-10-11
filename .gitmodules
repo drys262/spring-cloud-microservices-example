@@ -1,0 +1,3 @@
+[submodule "spring-git-local-config-repo"]
+	path = spring-git-local-config-repo
+	url = git@github.com:drys262/spring-git-local-config-repo.git
